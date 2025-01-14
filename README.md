@@ -2,6 +2,31 @@
 
 ![GradientLine](https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8)
 
+### 📈 **GitHub Contributions & Streaks**  
+Here’s a snapshot of my recent GitHub activity:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
+
+  <a href="https://github.com/manitejagaddam" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=manitejagaddam&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
+         alt="GitHub Stats" 
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
+  </a>
+
+  <a href="https://github.com/manitejagaddam" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manitejagaddam&theme=ambient_gradient" 
+         alt="GitHub Streak Stats" 
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
+  </a>
+
+ 
+
+</div>
+
+
+
+
+
 ### 👀 Interests  
 I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, and **Generative AI**.  
 - 🧠 Exploring how AI and neural networks can solve real-world problems.  
@@ -33,17 +58,6 @@ I’m a **lazy yet efficient coder** – always finding the smartest way to get 
 - 📖 Lifelong learner, constantly curious about new trends in tech.
 
 ---
-### 📈 **GitHub Contributions & Streaks**  
-Here’s a snapshot of my recent GitHub activity:
-
-[![Maniteja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manitejagaddam&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient)](https://github.com/manitejagaddam)
-
-
-[![Maniteja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manitejagaddam&theme=ambient_gradient)](https://github.com/manitejagaddam)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manitejagaddam&layout=pie&theme=ambient_gradient)](https://github.com/manitejagaddam/github-readme-stats)
-
 
 
 ## Tools And Frameworks
@@ -91,9 +105,19 @@ Here’s a snapshot of my recent GitHub activity:
       <img src="https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git&logoColor=black" alt="Git" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
     </div>
-  </div>
+  </div><br/>
+
+  <h2>Most Languages Used</h2>
+
+   <a href="https://github.com/manitejagaddam/github-readme-stats" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manitejagaddam&layout=pie&theme=ambient_gradient" 
+         alt="Top Languages" 
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
+  </a>
 
 </div>
+
+
 <div align="center">
 <h1> 📫 How to Reach Me </h1>  
 
