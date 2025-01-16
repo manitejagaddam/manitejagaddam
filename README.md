@@ -14,7 +14,7 @@ Here’s a snapshot of my recent GitHub activity:
   </a>
 
   <a href="https://github.com/manitejagaddam" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manitejagaddam&theme=ambient_gradient" 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=manitejagaddam&theme=ambient_gradient" 
          alt="GitHub Streak Stats" 
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
   </a>
@@ -22,9 +22,6 @@ Here’s a snapshot of my recent GitHub activity:
  
 
 </div>
-
-
-
 
 
 ### 👀 Interests  
@@ -45,11 +42,6 @@ I'm looking to collaborate on:
 - 🌐 **Web Development**: Creating responsive, scalable web solutions.  
 - 🤖 **AI and ML Projects**: Bringing innovative ideas to life through machine learning.  
 - 🛠️ Open-source projects: Let's build something amazing together!
-
-
-### 😄 Pronouns  
-- **he/him**  
-- 🏳️‍🌈 Proud advocate for inclusivity and diversity in tech.  
 
 ### ⚡ Fun Fact  
 I’m a **lazy yet efficient coder** – always finding the smartest way to get things done!  
