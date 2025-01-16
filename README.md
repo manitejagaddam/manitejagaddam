@@ -13,14 +13,6 @@ Here’s a snapshot of my recent GitHub activity:
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
   </a>
 
-  <a href="https://github.com/manitejagaddam" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=manitejagaddam&theme=ambient_gradient" 
-         alt="GitHub Streak Stats" 
-         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
-  </a>
-
- 
-
 </div>
 
 
