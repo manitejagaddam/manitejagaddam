@@ -1,5 +1,4 @@
 # 👋 Hi, I'm @manitejagaddam
-
 ![GradientLine](https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8)
 
 ### 📈 **GitHub Contributions & Streaks**  
