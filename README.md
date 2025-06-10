@@ -81,7 +81,7 @@ I’m a **lazy yet efficient coder** – always finding the smartest way to get 
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Tools</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+<!--       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;"> -->
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
