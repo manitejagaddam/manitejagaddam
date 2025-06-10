@@ -66,7 +66,7 @@ I’m a **lazy yet efficient coder** – always finding the smartest way to get 
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+<!--       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;"> -->
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/Yolo-v8%20-black?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
