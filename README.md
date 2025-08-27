@@ -27,8 +27,7 @@
 
 ## 🐍 Contributions Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manitejagaddam/manitejagaddam/output/github-contribution-grid-snake.svg" width="400" />
-  <img src="https://raw.githubusercontent.com/manitejagaddam/manitejagaddam/output/github-contribution-grid-snake-gradient.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/manitejagaddam/manitejagaddam/output/github-contribution-grid-snake-gradient.svg" width="1200" />
 </p>
 
 ---
