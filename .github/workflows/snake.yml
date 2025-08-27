@@ -1,28 +1,29 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:       # manual trigger
   schedule:
-    - cron: "0 */12 * * *"  # every 12h
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # runs every 12h
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          ref: Machine-Learning   # your main dev branch
 
-      - name: Generate Snakes
+      - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: manitejagaddam
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-gradient.svg?palette=gradient
             dist/github-contribution-grid-snake-neon.svg?palette=neon
-            dist/github-contribution-grid-snake-slate.svg?palette=slate
-            dist/github-contribution-grid-snake-zebra.svg?palette=zebra
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
