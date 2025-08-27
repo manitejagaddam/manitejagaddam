@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule: # every 12 hours
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"  # every 12h
   workflow_dispatch:
 
 jobs:
@@ -12,18 +12,23 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snakes
         uses: Platane/snk@v3
         with:
           github_user_name: manitejagaddam
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-gradient.svg?palette=gradient
+            dist/github-contribution-grid-snake-neon.svg?palette=neon
+            dist/github-contribution-grid-snake-slate.svg?palette=slate
+            dist/github-contribution-grid-snake-zebra.svg?palette=zebra
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
