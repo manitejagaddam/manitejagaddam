@@ -32,6 +32,21 @@
 
 ---
 
+
+
+## 🕒 WakaTime Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@maniteja_gaddam_007">
+    <img src="https://wakatime.com/badge/user/da860cb3-d8af-43ae-824c-522ae4b91e87.svg" alt="WakaTime Badge" />
+  </a>
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🚀 Project Highlights  
 
 <p align="center">
