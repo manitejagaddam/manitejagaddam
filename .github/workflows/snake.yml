@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          ref: Machine-Learning   # your main dev branch
+          ref: main   # your main dev branch
 
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
