@@ -42,43 +42,6 @@
   </a>
 </p>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 364.4 kB Used in GitHub's Storage 
- > 
-> 🏆 1,481 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 79 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         25 repos            █████████░░░░░░░░░░░░░░░░   37.88 % 
-TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-C++                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/manitejagaddam/manitejagaddam/main/assets/bar_graph.png)
-
-
- Last Updated on 28/09/2025 01:58:48 UTC
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🚀 Project Highlights  
@@ -88,7 +51,10 @@ JavaScript               5 repos             ██░░░░░░░░░�
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manitejagaddam&repo=Multi-Chat&theme=ambient_gradient" />
   </a>
   <a href="https://github.com/manitejagaddam/Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manitejagaddam&repo=Projects&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manitejagaddam&repo=Code-Titan&theme=ambient_gradient" />
+  </a>
+  <a href="https://github.com/manitejagaddam/Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manitejagaddam&repo=Vishwalpha&theme=ambient_gradient" />
   </a>
 </p>
 
