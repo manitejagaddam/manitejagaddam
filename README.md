@@ -4,23 +4,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C4FF&center=true&vCenter=true&width=700&height=70&lines=AI+%7C+ML+%7C+Generative+AI+Developer;Full+Stack+Developer+(MERN);Problem+Solver+%7C+DSA+Enthusiast;Always+Building+%26+Learning+New+Things" />
 </p>
 
----
+### 🚀 Current Focus
+- 🏢 **AI/ML Intern @ VishwAlpha Pvt. Ltd.** – Architecting a multi-tenant LMS portal.
+- 🤖 **Building CodeTitan** – An autonomous coding agent leveraging AutoGen and Docker.
+- 🧠 **Continuous Learning** – Deep diving into Linear Algebra, Probability, and fine-tuning models like Mistral-7B.
+- 🏆 **Competitive Programming** – Solved **1,000+ problems** on LeetCode.
 
-## 📈 GitHub Analytics  
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manitejagaddam&theme=ambient_gradient&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=manitejagaddam&show_icons=true&theme=ambient_gradient&hide_border=true" height="200"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=manitejagaddam&show_icons=true&theme=ambient_gradient&hide_border=true" height="200"/> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manitejagaddam&theme=ambient_gradient" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manitejagaddam&layout=compact&theme=ambient_gradient" />
 
-</p>
+</p> -->
 
 
 ---
@@ -34,41 +38,33 @@
 
 
 
-## 🕒 WakaTime Stats
 
-<p align="center">
-  <a href="https://wakatime.com/@maniteja_gaddam_007">
-    <img src="https://wakatime.com/badge/user/da860cb3-d8af-43ae-824c-522ae4b91e87.svg" alt="WakaTime Badge" />
-  </a>
-</p>
+### 💻 Featured Projects
 
----
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **MultiChat** | Multi-LLM orchestration system with dynamic routing and evaluation. | Python, LangChain, FastAPI | [Repo](#) |
+| **CodeTitan** | Autonomous AI application builder with agentic workflows. | Python, AutoGen, Docker | [Repo](#) |
+| **NeuroLense** | AI-powered stress detection system using computer vision. | TensorFlow, OpenCV, Python | [Repo](#) |
 
-## 🚀 Project Highlights  
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <a href="https://github.com/manitejagaddam/Multi-Chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manitejagaddam&repo=Multi-Chat&theme=ambient_gradient" />
-  </a>
-  <a href="https://github.com/manitejagaddam/Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manitejagaddam&repo=Code-Titan&theme=ambient_gradient" />
-  </a>
-  <a href="https://github.com/manitejagaddam/Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manitejagaddam&repo=Vishwalpha&theme=ambient_gradient" />
-  </a>
-</p>
+**AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 
----
+**Full-Stack & Core**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## 🛠 Skills  
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Languages:+C%2B%2B+%7C+Java+%7C+Python+%7C+JavaScript+%7C+R;Frameworks:+React+%7C+Node.js+%7C+Express+%7C+Flask+%7C+TensorFlow+%7C+OpenCV;Tools:+Docker+%7C+AWS+%7C+GCP+%7C+Git+%7C+Figma+%7C+VS+Code" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,r,react,nodejs,express,flask,tensorflow,opencv,yolo,docker,aws,gcp,git,figma,vscode" />
-</p>
 
 ---
 
@@ -80,15 +76,6 @@
 
 ---
 
-## 🎮 Fun Side  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="220" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="220" />
-</p>
-
----
 
 ## 📫 Reach Me  
 
