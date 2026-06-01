@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Maniteja Gaddam  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C4FF&center=true&vCenter=true&width=700&height=70&lines=AI+%7C+ML+%7C+Generative+AI+Developer;Full+Stack+Developer+(MERN);Problem+Solver+%7C+DSA+Enthusiast;Always+Building+%26+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C4FF&center=true&vCenter=true&width=700&height=70&lines=AI+%7C+ML+%7C+Generative+AI+Developer;Full+Stack+Developer+[...]
 </p>
 
 ### 🚀 Current Focus
-- 🏢 **AI/ML Intern @ VishwAlpha Pvt. Ltd.** – Architecting a multi-tenant LMS portal.
-- 🤖 **Building CodeTitan** – An autonomous coding agent leveraging AutoGen and Docker.
+- 📚 **Learning Quantitative Development** – Mastering algorithmic trading and financial computing with a deep focus on C++.
+- 🎯 **GATE Preparation 2.0** – Achieved 1600 score but pushing harder for excellence. Retrying with renewed focus and strategy.
 - 🧠 **Continuous Learning** – Deep diving into Linear Algebra, Probability, and fine-tuning models like Mistral-7B.
 - 🏆 **Competitive Programming** – Solved **1,000+ problems** on LeetCode.
 
@@ -71,7 +71,7 @@
 ## 👀 Interests  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFB3&center=true&vCenter=true&width=700&height=60&lines=AI+for+Good+%7C+Generative+AI;Multi-Agent+Systems+%7C+NLP+%7C+CV;Building+Scalable+Web+Apps;Solving+Puzzles+and+Optimizing+Workflows" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFB3&center=true&vCenter=true&width=700&height=60&lines=AI+for+Good+%7C+Generative+AI;Multi-Agent+Systems+%7C+NLP+[...]
 </p>
 
 ---
