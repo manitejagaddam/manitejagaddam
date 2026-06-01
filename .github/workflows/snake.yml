@@ -8,6 +8,7 @@ on:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repo
@@ -24,9 +25,6 @@ jobs:
             dist/github-contribution-grid-snake-gradient.svg?palette=gradient
             dist/github-contribution-grid-snake-neon.svg?palette=neon
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        retry:
-          max-attempts: 3
-          timeout-minutes: 5
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
